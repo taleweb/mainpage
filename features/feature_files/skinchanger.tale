@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Skin Changer"
+
+mod_description="Allows you to unlock the skin you want (only visible to you)."
+mod_description_tr="İstediğiniz skini açmaya yarar (sadece sizde gözükür)."
+mod_description_ru="Позволяет тебе выбирать любые скины на персонажах (видно только тебе)."
+
+tags=["VISUAL"]

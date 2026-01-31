@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Aim Bot"
+
+mod_description="Auto aims at enemies and gives them an 85% chance of being hit by a bullet."
+mod_description_tr="Düşmanlara otomatik nişan alır ve %85 oranında isabet şansı verir."
+mod_description_ru="Авто аимиться в противников с 85% шансом попадения."
+
+tags=["TALE+"]

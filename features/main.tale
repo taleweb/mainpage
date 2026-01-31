@@ -1,0 +1,6 @@
+[TALEMAINPAGE]
+main_text="Click on the mod you want to learn more about"
+main_text_ru="Нажмите на мод, чтобы узнать больше"
+main_text_tr="Hakkında daha fazla bilgi edinmek istediğiniz moda tıklayın"
+
+features=["xray.tale", "aimbot.tale", "autododge.tale", "autocharge.tale", "autospinner.tale", "speedexploit.tale", "cameraswitcher.tale", "followclosestally.tale", "dynajump.tale", "killaura.tale", "holdtoshoot.tale", "battleserverchanger.tale", "unlockallemotes.tale", "naniultimod.tale", "willowmod.tale", "minamod.tale", "lolaclonemovementmod.tale", "lolainfinityammomod.tale", "hankmod.tale", "skinchanger.tale", "rankedmod.tale", "battlecardmod.tale", "mapmakermod.tale", "chromaticname.tale", "emptypin.tale", "fpsunlocker.tale", "showenemyammo.tale", "spectatorsmenu.tale", "spectatewithid.tale", "statuschanger.tale", "namechanger.tale", "fontchanger.tale", "antiautoshoot.tale", "antiautosuper.tale", "hideultiaiming.tale", "randomsprayspam.tale", "chatspam.tale", "seeselectedbrawlers.tale", "antiafk.tale", "invitebyid.tale", "optimizegame.tale", "decreasedcooldown.tale", "anticensor.tale", "staticbackground.tale", "autoplayagain.tale", "themechanger.tale", "urlmenu.tale"]

@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Hold to Shoot"
+
+mod_description="It keeps shooting as long as you hold the attack button."
+mod_description_tr="Saldırı düğmesini basılı tuttuğunuz sürece ateş etmeye devam eder."
+mod_description_ru="Стреляет само пока ты удерживаешь стрельбу."
+
+tags=["TALE+", "BATTLE"]
+
+videos=["https://t.me/taleassets/19"]

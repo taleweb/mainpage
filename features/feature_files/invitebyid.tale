@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Invite by ID"
+
+mod_description="Allows you to invite someone to team using their ID."
+mod_description_tr="ID ile istediğiniz birini takıma davet etmenize yarar."
+mod_description_ru="Позволяет тебе пригласить любого игрока по его айди."
+
+tags=["GENERAL"]

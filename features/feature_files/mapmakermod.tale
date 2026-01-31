@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Map Maker Mod"
+
+mod_description="Unlocks hidden items you can place in your map maker maps."
+mod_description_tr="Harita Oluşturucuda gizli şeyleri açar."
+mod_description_ru="Позволяет использовать скрытые предметы в мап мейкере."
+
+tags=["EXPLOIT"]

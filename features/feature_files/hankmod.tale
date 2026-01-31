@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Hank Mod"
+
+mod_description="Spams balloon."
+mod_description_tr="Balon spamlar."
+mod_description_ru="Спамит шариком."
+
+tags=["TALE+", "EXPLOIT", "BATTLE"]
+
+videos=["https://t.me/taleassets/9"]

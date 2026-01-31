@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Anti Censor"
+
+mod_description="Nothing you write in team chat will be censored. (WARNING: you may get banned if someone reports you)."
+mod_description_tr="Takım sohbetinde yazdığınız hiçbir yazı sansürlenmez (UYARI: eğer birisi sizi raporlarsa oyundan yasaklanabilirsiniz)."
+mod_description_ru="Можно писать всё что угодно в чат и оно не будет скрыто. (ВНИМАНИЕ: если тебя репортнут возмоден бан)."
+
+tags=["EXPLOIT"]

@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Camera Switcher"
+
+mod_description="It allows you to switch camera."
+mod_description_tr="Kamerayı değiştirmenize yarar."
+mod_description_ru="Позволяет тебе сменить угол камеры."
+
+tags=["TALE+", "BATTLE"]
+
+videos=["https://t.me/taleassets/16"]

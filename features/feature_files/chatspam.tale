@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Chat Spam"
+
+mod_description="Allows you to spam texts in team."
+mod_description_tr="Takımda yazı spamlamanıza yarar."
+mod_description_ru="Позволяет тебе спамить сообщения в тиме."
+
+tags=["GENERAL"]

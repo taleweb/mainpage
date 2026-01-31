@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Font Changer"
+
+mod_description="It allows you to change game font."
+mod_description_tr="Oyunun yazı tipini değiştirmenize yarar."
+mod_description_ru="Позволяет тебе изменить шрифт."
+
+tags=["GENERAL"]
+
+photos=["https://t.me/taleassets/4"]

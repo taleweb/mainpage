@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Follow Closest Ally"
+
+mod_description="It allows you to follow closest ally."
+mod_description_tr="En yakın takım arkadaşınızı takip eder."
+mod_description_ru="Автоматически ходит за ближайшим тимейтом."
+
+tags=["TALE+", "BATTLE"]
+
+videos=["https://t.me/taleassets/18"]

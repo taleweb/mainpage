@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Optimize Game"
+
+mod_description="It optimizes the game a little bit."
+mod_description_tr="Oyunu birazcık optimize eder."
+mod_description_ru="Оптимизирует чуть-чуть игру."
+
+tags=["GENERAL"]

@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="FPS Unlocker/Set FPS"
+
+mod_description="Helps you get much higher FPS than you normally would in the game (it's automatically enabled). And also you can limit the FPS with the set FPS button."
+mod_description_tr="Normal oyunda olandan çok daha fazla FPS almanıza yarar (otomatik açık gelir). FPS'i set FPS butonu ile sınırlandırabilirsiniz."
+mod_description_ru="Позволяет получать фпс больше чем ты получаешь в обычном бравле (оно включено автоматически). Так же можно изменить сколько фпс тебе нужно."
+
+tags=["GENERAL"]
+
+photos=["https://t.me/taleassets/5"]

@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Url Menu"
+
+mod_description="Web view within the game."
+mod_description_tr="Oyun içinde web görünümü."
+mod_description_ru="Позволяет открыть любой сайт в игре."
+
+tags=["GENERAL"]

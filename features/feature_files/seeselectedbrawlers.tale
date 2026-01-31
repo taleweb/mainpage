@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="See Selected Brawlers"
+
+mod_description="Allows you to see enemy brawlers in team."
+mod_description_tr="Takımda karşı tarafın karakterlerini görmenize yarar."
+mod_description_ru="Позволяет тебе видеть персонажа противника в дружеском бою."
+
+tags=["GENERAL"]

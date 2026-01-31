@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Dyna Jump"
+
+mod_description="It allows you to jump automatically 4 times every time you click the button with Dynamike"
+mod_description_tr="Her butona tıkladığınızda Dynamike ile 4 kez zıplamanıza yarar"
+mod_description_ru="Позволяет тебе прыгнуть 4 раза за динамайка по нажатию кнопки."
+
+tags=["TALE+", "BATTLE"]
+
+videos=["https://t.me/taleassets/17"]

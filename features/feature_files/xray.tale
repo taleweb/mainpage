@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="X-Ray Autoshoot"
+
+mod_description="It instantly locks onto visible enemies and maintains the lock even if they enter bushes or go invisible. It tracks their movement, ensuring you fire at their exact location whenever the button is pressed, until a new target is selected."
+mod_description_tr="Yanınızdaki düşmanı otomatik olarak hedef belirler ve çalılara girseler bile hareketlerini takip ederek yeni bir hedef seçilene kadar düğmeye her basıldığında tam konumlarına ateş etmenizi sağlar."
+mod_description_ru="Позволяет стрелять в ближайшего игрока авто атакой, даже если он в кустах или невидимый."
+
+tags=["TALE+", "EXPLOIT", "BATTLE"]
+
+videos=["https://t.me/taleassets/24"]

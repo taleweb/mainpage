@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Auto Charge"
+
+mod_description="Auto charging Janet, Hank, and Angelo's range to max range"
+mod_description_tr="Janet, Hank ve Angelo'nun şarjını otomatik doldurur."
+mod_description_ru="Автоматически заряжает атаки персонажей таких как Джанет, Хэнк и Анджело до максимального расстояния."
+
+tags=["TALE+", "BATTLE"]
+
+videos=["https://t.me/taleassets/12"]

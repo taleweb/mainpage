@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Lola Clone Movement Mod"
+
+mod_description="Allows you to move Lola's clone even when not moving."
+mod_description_tr="Lola'nın klonunu hareket etmezken bile hareket ettirmeye yarar"
+mod_description_ru="Позволяет тебе двигать клон лолы своим джойстиком не двигаясь самому."
+
+tags=["TALE+", "EXPLOIT", "BATTLE"]
+
+videos=["https://t.me/taleassets/21"]

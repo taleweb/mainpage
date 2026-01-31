@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Auto Spinner"
+
+mod_description="Spins automatically."
+mod_description_tr="Otomatik etrafında döner."
+mod_description_ru="Крутит тебя автоматически."
+
+tags=["TALE+", "BATTLE"]
+
+videos=["https://t.me/taleassets/15"]

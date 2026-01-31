@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Anti AFK"
+
+mod_description="It prevents you from going AFK in the match."
+mod_description_tr="Maçta AFK olmanızı engeller."
+mod_description_ru="Тебя не кикнет даже если ты стоишь на месте."
+
+tags=["BATTLE"]

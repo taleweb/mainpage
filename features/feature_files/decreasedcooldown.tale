@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Decreased Cooldown"
+
+mod_description="It reduces ping a little bit."
+mod_description_tr="Oyun içi pingi birazcık düşürür."
+mod_description_ru="Чуть-чуть уменьшает пинг."
+
+tags=["GENERAL"]

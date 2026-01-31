@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Anti Autoshoot"
+
+mod_description="Disables Auto Shoot, needing manual aim to attack."
+mod_description_tr="Oto vuruşu engeller, ateş etmek için manuel aim gerekir."
+mod_description_ru="Отключает авто атаку."
+
+tags=["BATTLE"]

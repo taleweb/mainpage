@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Auto Dodge"
+
+mod_description="Automatically dodges bullets."
+mod_description_tr="Mermilerden otomatik olarak kaçar."
+mod_description_ru="Автоматически уклоняется от пуль."
+
+tags=["TALE+", "BATTLE"]
+
+videos=["https://t.me/taleassets/13", "https://t.me/taleassets/14"]

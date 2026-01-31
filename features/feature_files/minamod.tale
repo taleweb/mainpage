@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Mina Mod"
+
+mod_description="Mina dashes infinitely with this exploit."
+mod_description_tr="Mina mermi atmaya gerek kalmadan sonsuza kadar ileri atılabilir."
+mod_description_ru="Мина может делать бесконечные рывки с этим експлоитом."
+
+tags=["TALE+", "EXPLOIT", "BATTLE"]
+
+videos=["https://t.me/taleassets/11"]

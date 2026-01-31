@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Hide Ulti Aiming"
+
+mod_description="Hides super aiming so other cant see when your aiming your super."
+mod_description_tr="Ulti aim'inizi gizler, bu sayede ulti ile aim alırken kimse sizi göremez."
+mod_description_ru="Никто не увидит что ты целишся ультой."
+
+tags=["BATTLE"]

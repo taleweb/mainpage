@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Auto Play Again"
+
+mod_description="It allows you to play again automatically every match."
+mod_description_tr="Her maç otomatik yeniden maç başlatır."
+mod_description_ru="После катки тебя автоматически перекинет на новую."
+
+tags=["GENERAL"]

@@ -1,0 +1,10 @@
+[TALEFEATURE]
+mod_title="Unlock All Emotes"
+
+mod_description="Allows you to unlock all matcherino winner, world finals (Only visible to you, work in battle) And all skin pins. (Visible to everyone, only works in team chat and club chat.)"
+mod_description_tr="Tüm matcherino, dünya finali pinlerini açmanıza yarar (bunlar sadece size gözükür ve maçta çalışır). Ve tüm skin pinlerini açmanızı yarar (herkese gözükür, sadece takım sohbeti ve kulüp sohbetinde gözükür)"
+mod_description_ru="Позволяет разблокировать все пины победителей Matcherino, финалы мирового чемпионата (видно только тебе, работают в бою) и все значки скинов. (Видны всем, работают только в командном и клубном чатах.)"
+
+tags=["TALE+", "GENERAL"]
+
+photos=["https://t.me/taleassets/6", "https://t.me/taleassets/7"]

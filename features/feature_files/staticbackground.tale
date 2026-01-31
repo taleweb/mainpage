@@ -1,0 +1,8 @@
+[TALEFEATURE]
+mod_title="Static Background"
+
+mod_description="It allows you to use the same background in every menu of the game."
+mod_description_tr="Oyundaki her menüde aynı arkaplanı kullanır."
+mod_description_ru="Позволяет видеть один и тот же задний фон в любом меню в игре."
+
+tags=["GENERAL"]
